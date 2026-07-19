@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studing Software Engineering at Federal University of Ceará
 - 🌱 I’m currently learning JavaScript, Golang, C, React, Java, Python and prototyping
-- 📫 How to reach me? e-mail: lucaswllnwork@gmail.com or @lucaswlln on instagram
+- 📫 How to reach me? My e-mail: lucaswllnwork@gmail.com or @lucaswlln on instagram
 - ⚡ Fun fact: I know how to draw, fight muay thai, advanced math and english 😁
 
 <!--
