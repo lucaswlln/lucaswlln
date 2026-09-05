@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 - 🔭 I’m currently studing Software Engineering at Federal University of Ceará
 - 🌱 I’m currently learning JavaScript, Golang, C, React, Java, Python and prototyping
